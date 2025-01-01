@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Jual!  
 
-https://github.com/contactjual/contactjual/blob/main/Black%20Trendy%20Gamer%20Youtube%20Banner%20(1).png?raw=true
+![Banner]([https://yourimageurl.com/banner.png](https://github.com/contactjual/contactjual/blob/main/Black%20Trendy%20Gamer%20Youtube%20Banner%20(1).png))
+
 
 A dedicated **Website Developer** with a passion for creating dynamic, user-friendly, and scalable web applications. I enjoy solving complex problems and delivering creative solutions through technology.
 
