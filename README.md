@@ -2,7 +2,7 @@
 
 ![Banner](https://raw.githubusercontent.com/contactjual/contactjual/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 
-A dedicated **Website Developer** with a passion for creating dynamic, user-friendly, and scalable web applications. I enjoy solving complex problems and delivering creative solutions through technology.
+A dedicated **Web Developer** with a passion for creating dynamic, user-friendly, and scalable web applications. I enjoy solving complex problems and delivering creative solutions through technology.
 
 ---
 
